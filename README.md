@@ -40,11 +40,11 @@
 
 
 
-[programming]: https://www.programming-hero.com/
+
 [website]: https://gowtamkumar.netlify.app/
 [twitter]: https://shadin.netlify.app/
 [linkedin]: https://shadin.netlify.app/
-[webdevplaylist]: https://shadin.netlify.app/
+[webdevplaylist]: https://gowtamkumar.netlify.app/
 [jsplaylist]: https://shadin.netlify.app/
-[cssplaylist]: https://shadin.netlify.app/
-[reactplaylist]: https://shadin.netlify.app/
+[cssplaylist]: https://gowtamkumar.netlify.app/
+[reactplaylist]: https://gowtamkumar.netlify.app/
