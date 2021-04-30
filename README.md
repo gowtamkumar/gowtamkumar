@@ -1,4 +1,4 @@
-### Hi there, I'm  [Solaiman Shadin][website] 👋
+### Hi there, I'm  [Solaiman Shadin][google.com] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working [Programming Hero][programming]!
