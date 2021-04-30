@@ -1,9 +1,9 @@
 ### Hi there, I'm [Gowtam Kumar][website]👋
 
 ## I'm a Web Developer. 
-## You can see my repository.
-## Need to Developer?. 
-## you can Hire me
+You can see my repository.
+Need to Developer?. 
+you can Hire me
 - 🔭 I’m currently working On Something Cool
 - 🌱 I’m currently learning everything 
 - 🥅 2021 Goals: React Native, Next.js
