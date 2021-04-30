@@ -36,6 +36,7 @@
 <br />
 <br />
 
+<img width="550px" alt="Gowtam kumar Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Gowtamkumar&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/Gowtamkumar)
 
