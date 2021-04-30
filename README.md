@@ -1,4 +1,4 @@
-### Hi there, I'm Gowtam Kumar👋
+### Hi there, I'm [Gowtam Kumar][website]👋
 
 ## I'm a 😍😍 Web Developer 😍😍!
 - 🔭 I’m currently working On Something Cool
@@ -38,11 +38,10 @@
 
 <img width="550px" alt="Gowtam kumar Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Gowtamkumar&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtamkumar&card_width=550)](https://github.com/Gowtamkumar)
 
 
 [programming]: https://www.programming-hero.com/
-[website]: https://shadin.netlify.app/
+[website]: https://gowtamkumar.netlify.app/
 [twitter]: https://shadin.netlify.app/
 [linkedin]: https://shadin.netlify.app/
 [webdevplaylist]: https://shadin.netlify.app/
