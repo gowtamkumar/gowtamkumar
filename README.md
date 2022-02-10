@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working On Something Cool
 - 🌱 I’m currently learning everything 
-- 🥅 2021 Goals: Nest.js
+- 🥅 2022 Goals: Redux and Typescript
 
 
 [![LinkedIn](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/gowtamkumar/) 
