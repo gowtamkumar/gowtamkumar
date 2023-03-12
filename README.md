@@ -43,5 +43,5 @@
 
 
 
-[website]: https://gowtamkumar.netlify.app/
-[webdevplaylist]: https://gowtamkumar.netlify.app/
+[website]: https://gowtamkumar.showwcase.com/
+[webdevplaylist]: https://gowtamkumar.showwcase.com/
