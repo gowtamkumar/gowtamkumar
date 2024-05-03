@@ -53,7 +53,7 @@ Hi there! I'm a skilled JavaScript developer with a passion for creating innovat
 
 - Connect with me on [Linkedin](https://linkedin.com/gowtamkumar) [Facebook](https://www.facebook.com/Gowtamkumar17) [Twitter](https://twitter.com/GowtamKumar16)
 
-"Great job with your coding! Keep up the good work! 👋️"
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 <!--
 
