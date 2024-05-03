@@ -42,7 +42,7 @@ Hi there! I'm a skilled JavaScript developer with a passion for creating innovat
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
+🚀 Learning Full Stack Web Development
   - 🔭 I’m currently learning Data Structure and Algorithms.
   - 🌱 I’m currently working On Something Cool
   <!-- - Navigating through the world of React Router for seamless page transitions.
