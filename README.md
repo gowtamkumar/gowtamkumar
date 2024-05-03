@@ -1,10 +1,10 @@
 # Hi, I'm Gowtam Kumar! 👋
 
-- JS{
-- Web Developer
-- ☕️ & Code | JavaScript developer.
-- ⚛️ React/Next.js dev | Node & PostgreSQL
-- }
+JS{
+Web Developer
+☕️ & Code | JavaScript developer.
+⚛️ React/Next.js dev | Node & PostgreSQL
+}
 
 <!-- I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community. -->
 
@@ -12,7 +12,8 @@
 
 ## 🚀 About Me
 
-Hi there!  I'm a skilled JavaScript developer with a passion for creating innovative web applications. I have 3 years of experience in the field and specialize in working with React.js and Node.js. My expertise lies in developing intuitive user interfaces and robust server-side solutions. I'm excited to connect with you and collaborate on exciting projects!
+Hi there! I'm a skilled JavaScript developer with a passion for creating innovative web applications. I have 3 years of experience in the field and specialize in working with React.js and Node.js. My expertise lies in developing intuitive user interfaces and robust server-side solutions. I'm excited to connect with you and collaborate on exciting projects!
+
 <!--
 
 ## My Articles
