@@ -9,25 +9,14 @@
 [![Facebook](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/Gowtamkumar17/) 
 <br />
 
-- Actively working with:
-  Languages:
-    - JavaScript, TypeScript, Python
-  Frontend:
-    - HTML, CSS3, SCSS, Tailwind CSS, Emotion, Styled Components, Framer-Motion
-    - React.js, Next.js, React Native, Three.js
-    - Redux, React-Query, Formik, React Hook Form, Zod
-    - Bootstrap, Material UI, Vuetify, Ant Design, Chakra-UI, Radix-UI, Storybook
-    - Aceternity, Mantine, Shadcn UI, Material Tailwind 
-  Backend:
-    - Node.js, Express.js, Nest.js
-    - REST API
-  Database:
-    - PostgreSQL, MySQL, MongoDB
-  Deployment:
-    - Git, Github, GitLab, Bitbucket
-    - Docker
-  Tools:
-    - VsCode, Postman
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Building server-side applications with Django, a powerful Python web framework.
+  - Diving into PostgreSQL for efficient and scalable database management.
 
 Here are some ideas to get you started:
 
