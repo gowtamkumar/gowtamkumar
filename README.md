@@ -33,7 +33,25 @@
 <br />
 <br />
 <br />
-
+Actively working with:
+  Languages:
+    - JavaScript, TypeScript, Python
+  Frontend:
+    - HTML, CSS3, SCSS, Tailwind CSS, Emotion, Styled Components, Framer-Motion
+    - React.js, Next.js, React Native, Three.js
+    - Redux, React-Query, Formik, React Hook Form, Zod
+    - Bootstrap, Material UI, Vuetify, Ant Design, Chakra-UI, Radix-UI, Storybook
+    - Aceternity, Mantine, Shadcn UI, Material Tailwind 
+  Backend:
+    - Node.js, Express.js, Nest.js
+    - REST API
+  Database:
+    - PostgreSQL, MySQL, MongoDB
+  Deployment:
+    - Git, Github, GitLab, Bitbucket
+    - Docker
+  Tools:
+    - VsCode, Postman
 
 
 
