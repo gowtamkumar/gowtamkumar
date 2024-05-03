@@ -34,7 +34,7 @@
 <br />
 <br />
 
-<img width="550px" alt="Gowtam kumar Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Gowtamkumar&show_icons=true"/>
+
 
 
 
