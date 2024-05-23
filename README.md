@@ -24,7 +24,7 @@ const result = new JS(
 
 <!-- ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=gowtamkumar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
-<table>
+<table class="border:none">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=gowtamkumar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="gowtamkumar's Stats" />
