@@ -49,7 +49,7 @@ Hi there! I'm a skilled JavaScript developer with a passion for creating innovat
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,expressjs,nestjs,postgresql,mysql,mongodb,wordpress)](https://gowtamkumar.vercel.app/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtamkumar&theme=vue-dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtamkumar&theme=vue-dark) -->
 
 ## 🌱 Currently Exploring
 
