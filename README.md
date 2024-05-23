@@ -22,16 +22,16 @@ const result = new JS(
 
 <!-- I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community. -->
 
-<!-- ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=gowtamkumar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=gowtamkumar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=gowtamkumar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="gowtamkumar's Stats" />
   </div>
   <div style="text-align: right;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtamkumar&theme=vue-dark" alt="Top Langs"  />
   </div>
-</div>
+</div> -->
 
 ## 🚀 About Me
 
@@ -49,7 +49,7 @@ Hi there! I'm a skilled JavaScript developer with a passion for creating innovat
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,expressjs,nestjs,postgresql,mysql,mongodb,wordpress)](https://gowtamkumar.vercel.app/)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtamkumar&theme=vue-dark) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtamkumar&theme=vue-dark)
 
 ## 🌱 Currently Exploring
 
