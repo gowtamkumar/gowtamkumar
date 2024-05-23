@@ -28,7 +28,7 @@ const result = new JS(
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=gowtamkumar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="gowtamkumar's Stats" />
   </div>
-  <div style="text-align: right;" class="width:100%">
+  <div style="text-align: right;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtamkumar&theme=vue-dark" alt="Top Langs"  />
   </div>
 </div>
