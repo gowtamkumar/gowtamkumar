@@ -22,16 +22,19 @@ const result = new JS(
 
 <!-- I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community. -->
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=gowtamkumar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<!-- ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=gowtamkumar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
-<!-- <div style="display: flex; justify-content: space-between;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=gowtamkumar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="gowtamkumar's Stats" />
-  </div>
-  <div style="text-align: right;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtamkumar&theme=vue-dark" alt="Top Langs"  />
-  </div>
-</div> -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gowtamkumar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="gowtamkumar's Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtamkumar&theme=vue-dark" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
 
 ## 🚀 About Me
 
