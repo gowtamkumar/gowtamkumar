@@ -24,7 +24,6 @@ const result = new JS(
 
 <!-- ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=gowtamkumar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
-
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
@@ -35,8 +34,6 @@ const result = new JS(
     </td>
   </tr>
 </table>
-
-
 
 ## 🚀 About Me
 
@@ -51,6 +48,12 @@ Hi there! I'm a skilled JavaScript developer with a passion for creating innovat
 -->
 
 ## Tech Stack
+
+<!-- - **Programming Languages**: Python, JavaScript, Java
+- **Web Development**: HTML, CSS, React, Node.js
+- **Tools and Technologies**: Git, Docker, Kubernetes
+- **Database Management**: MySQL, MongoDB
+- **Cloud Platforms**: AWS, Azure, Google Cloud -->
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,expressjs,nestjs,postgresql,mysql,mongodb,wordpress)](https://gowtamkumar.vercel.app/)
 
