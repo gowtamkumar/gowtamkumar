@@ -24,16 +24,18 @@ const result = new JS(
 
 <!-- ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=gowtamkumar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
-<table class="border:none">
-  <tr>
-    <td>
+
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=gowtamkumar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="gowtamkumar's Stats" />
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtamkumar&theme=vue-dark" alt="Top Langs" />
     </td>
   </tr>
 </table>
+
 
 
 ## 🚀 About Me
