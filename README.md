@@ -47,7 +47,7 @@ Hi there! I'm a skilled JavaScript developer with a passion for creating innovat
 
 -->
 
-## Tech Stack
+## Tech Stacu
 
 <!-- - **Programming Languages**: Python, JavaScript, Java
 - **Web Development**: HTML, CSS, React, Node.js
@@ -55,7 +55,7 @@ Hi there! I'm a skilled JavaScript developer with a passion for creating innovat
 - **Database Management**: MySQL, MongoDB
 - **Cloud Platforms**: AWS, Azure, Google Cloud -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,expressjs,nestjs,postgresql,mysql,mongodb,wordpress)](https://gowtamkumar.vercel.app/)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,expressjs,nestjs,postgresql,mysql,mongodb,docker,wordpress)](https://gowtamkumar.vercel.app/)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtamkumar&theme=vue-dark) -->
 
