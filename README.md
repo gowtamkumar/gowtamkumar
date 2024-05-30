@@ -55,7 +55,7 @@ Hi there! I'm a skilled JavaScript developer with a passion for creating innovat
 - **Tools**: Git, Docker
 - **Cloud Platforms**: VPS, AWS -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,expressjs,nestjs,postgresql,mysql,mongodb,redis,docker,wordpress)](https://gowtamkumar.vercel.app/)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,redux,nextjs,nodejs,expressjs,nestjs,postgresql,mysql,mongodb,redis,docker,wordpress)](https://gowtamkumar.vercel.app/)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtamkumar&theme=vue-dark) -->
 
