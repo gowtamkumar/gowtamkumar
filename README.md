@@ -50,12 +50,12 @@ Hi there! I'm a skilled JavaScript developer with a passion for creating innovat
 ## Tech Stack
 
 <!-- - **Programming Languages**: JavaScript, Typescript
-- **Web Development**: HTML, CSS, React, Redux.js, Node.js, Express.js, Nest.js
+- **Web Development**: Tailwindcss, React, Redux.js, Node.js, Express.js, Nest.js
 - **Database Management**: PostgreSQL, MySQL, MongoDB, Redis
 - **Tools**: Git, Docker
 - **Cloud Platforms**: VPS, AWS -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,redux,nextjs,nodejs,expressjs,nestjs,postgresql,mysql,mongodb,redis,docker,wordpress)](https://gowtamkumar.vercel.app/)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,redux,nextjs,nodejs,expressjs,nestjs,postgresql,mysql,mongodb,redis,docker)](https://gowtamkumar.vercel.app/)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtamkumar&theme=vue-dark) -->
 
