@@ -51,11 +51,11 @@ Hi there! I'm a skilled JavaScript developer with a passion for creating innovat
 
 <!-- - **Programming Languages**: JavaScript, Typescript
 - **Web Development**: Tailwindcss, React, Redux.js, Node.js, Express.js, Nest.js
-- **Database Management**: PostgreSQL, MySQL, MongoDB, Redis
+- **Database Management**: PostgreSQL, MongoDB, Redis
 - **Tools**: Git, Docker
 - **Cloud Platforms**: VPS, AWS -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,redux,nextjs,nodejs,expressjs,nestjs,postgresql,mysql,mongodb,redis,docker)](https://gowtamkumar.vercel.app/)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,redux,nextjs,nodejs,expressjs,nestjs,postgresql,mongodb,redis,docker,nginx,postman,git,github)](https://gowtamkumar.vercel.app/)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtamkumar&theme=vue-dark) -->
 
@@ -70,7 +70,7 @@ Hi there! I'm a skilled JavaScript developer with a passion for creating innovat
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin](https://linkedin.com/in/gowtamkumar) [Facebook](https://www.facebook.com/Gowtamkumar17) [Twitter](https://twitter.com/GowtamKumar16)
+- Connect with me on [Linkedin](https://linkedin.com/in/gowtamkumar) [Facebook](https://www.facebook.com/Gowtamkumar17)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
