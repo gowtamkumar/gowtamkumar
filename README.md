@@ -20,7 +20,8 @@ Hi there! I'm a skilled JavaScript developer with a passion for creating innovat
 - **Programming Languages**: JavaScript, Typescript
 - **Web Development**: Tailwindcss, React, Next.js, Redux.js, Node.js, Express.js, Nest.js, Socket.io
 - **Database Management**: PostgreSQL, MySQL, MongoDB, Redis
-- **Tools**: Git, Docker, Nginx, Postman, VPS
+- **Deployment**: Git, Github, Docker, Nginx, Postman, VPS
+- **Other**: React Native
 <!-- - **Cloud Platforms**: VPS -->
 
 ## 💻 Projects
@@ -49,3 +50,7 @@ Hi there! I'm a skilled JavaScript developer with a passion for creating innovat
 - LinkedIn: [Gowtam Kumar](https://linkedin.com/in/gowtamkumar)
 - Facebook: [Gowtam Kumar](https://www.facebook.com/Gowtamkumar17)
 - GitHub: [gowtamkumar](https://github.com/gowtamkumar)
+
+```
+
+```
