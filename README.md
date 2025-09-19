@@ -49,5 +49,3 @@ Hi there! I'm a skilled JavaScript developer with a passion for creating innovat
 - LinkedIn: [Gowtam Kumar](https://linkedin.com/in/gowtamkumar)
 - Facebook: [Gowtam Kumar](https://www.facebook.com/Gowtamkumar17)
 - GitHub: [gowtamkumar](https://github.com/gowtamkumar)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
