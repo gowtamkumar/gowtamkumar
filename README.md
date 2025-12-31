@@ -1,16 +1,5 @@
 # Hi, I'm Gowtam Kumar! 👋
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=gowtamkumar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="gowtamkumar's Stats" />
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtamkumar&theme=vue-dark" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
-
 ## 🚀 About Me
 
 Hi there! I'm a skilled JavaScript developer with a passion for creating innovative web applications. I have 3 years of experience in the field and specialize in working with React.js and Node.js. My expertise lies in developing intuitive user interfaces and robust server-side solutions. I'm excited to connect with you and collaborate on exciting projects!
