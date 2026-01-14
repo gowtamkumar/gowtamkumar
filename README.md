@@ -10,7 +10,7 @@ Hi there! I'm a skilled JavaScript developer with a passion for creating innovat
 - **Web Development**: TailwindCSS, React, Next.js, Node.js, Express.js, Nest.js
 - **Database Management**: PostgreSQL, MySQL, MongoDB, Redis
 - **Deployment**: Git, GitHub, Docker, Nginx, Postman, VPS
-- **Other**: React Native,Socket.io
+- **Other**: React Native,Socket.io,AI Automation (n8n) 
 <!-- - **Cloud Platforms**: VPS -->
 
 ## 💻 Projects
