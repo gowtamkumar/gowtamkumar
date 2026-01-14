@@ -7,10 +7,10 @@ Hi there! I'm a skilled JavaScript developer with a passion for creating innovat
 ## Tech Stack
 
 - **Programming Languages**: JavaScript, Typescript
-- **Web Development**: Tailwindcss, React, Next.js, Redux.js, Node.js, Express.js, Nest.js, Socket.io
+- **Web Development**: TailwindCSS, React, Next.js, Node.js, Express.js, Nest.js
 - **Database Management**: PostgreSQL, MySQL, MongoDB, Redis
-- **Deployment**: Git, Github, Docker, Nginx, Postman, VPS
-- **Other**: React Native
+- **Deployment**: Git, GitHub, Docker, Nginx, Postman, VPS
+- **Other**: React Native,Socket.io
 <!-- - **Cloud Platforms**: VPS -->
 
 ## 💻 Projects
@@ -30,7 +30,7 @@ Hi there! I'm a skilled JavaScript developer with a passion for creating innovat
 
 ## 🌱 Currently Exploring
 
-- 🔭 I’m currently learning Data Structure and Algorithms.
+- 🔭 I’m currently learning Data Structures and Algorithms.
 - 🌱 I’m currently working On Something Cool
 
 ## 📬 Get in Touch
